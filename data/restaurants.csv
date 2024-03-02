@@ -1,0 +1,1001 @@
+id,name,category,price_tier,neighborhoods,opening_hour,closing_hour,average_rating ,good_for_kids
+1,Jabbertype,Indian,cheap,upper east side,10:59,20:00,2,false
+2,Voonyx,Indian,cheap,soho,10:59,20:00,2,true
+3,Fanoodle,Indian,medium,soho,10:59,20:00,3,true
+4,Fiveclub,Japanese,medium,upper east side,10:59,20:00,4,true
+5,Brightbean,American,medium,down town,10:59,20:00,3,true
+6,Realblab,Japanese,cheap,soho,10:59,20:00,1,false
+7,Quinu,Japanese,expensive,upper west side,10:59,20:00,4,true
+8,Izio,American,cheap,down town,10:59,20:00,4,false
+9,Pixonyx,American,cheap,upper east side,10:59,20:00,3,true
+10,Oodoo,American,medium,upper east side,10:59,20:00,2,true
+11,Fatz,American,medium,soho,10:59,20:00,2,false
+12,Skivee,Chinese,expensive,upper west side,10:59,20:00,3,true
+13,Photobug,American,cheap,down town,10:59,20:00,5,false
+14,Jabbersphere,Japanese,medium,down town,10:59,20:00,5,false
+15,Topicstorm,American,cheap,midtown,10:59,20:00,3,true
+16,Tavu,Chinese,medium,upper west side,10:59,20:00,1,true
+17,Eazzy,Indian,medium,upper east side,10:59,20:00,1,false
+18,Flipopia,Chinese,cheap,upper east side,11:00,20:00,4,true
+19,Dynabox,Indian,expensive,upper west side,10:59,20:00,2,true
+20,Babbleset,American,expensive,down town,10:59,20:00,1,false
+21,Kazu,Japanese,expensive,soho,10:59,20:00,4,false
+22,Midel,Japanese,cheap,upper west side,10:59,20:00,3,false
+23,Kwideo,Indian,medium,upper east side,10:59,20:00,1,true
+24,Devcast,American,medium,midtown,10:59,20:00,3,true
+25,Quinu,Japanese,expensive,soho,10:59,20:00,1,false
+26,Realfire,Japanese,medium,down town,10:59,20:00,4,false
+27,Photolist,Chinese,expensive,upper east side,10:59,20:00,4,false
+28,Browsedrive,Japanese,expensive,down town,10:59,20:00,5,false
+29,Photolist,Indian,cheap,down town,10:59,20:00,3,true
+30,Edgeblab,American,cheap,soho,10:59,20:00,2,true
+31,Blogspan,Chinese,cheap,down town,10:59,20:00,3,true
+32,Tambee,Chinese,cheap,soho,10:59,20:00,4,false
+33,Edgeblab,American,cheap,upper east side,10:59,20:00,1,false
+34,Yakidoo,American,expensive,upper west side,10:59,20:00,4,true
+35,Izio,Chinese,medium,soho,10:59,20:00,2,true
+36,Jayo,Japanese,expensive,midtown,10:59,20:00,5,false
+37,Kimia,Japanese,cheap,upper west side,10:59,20:00,5,true
+38,Centidel,Indian,expensive,upper west side,11:00,20:00,5,true
+39,Youspan,Chinese,cheap,upper west side,10:59,20:00,4,true
+40,Thoughtbeat,American,expensive,upper west side,10:59,20:00,1,false
+41,Skyba,Indian,medium,upper west side,10:59,20:00,3,false
+42,Meedoo,Indian,medium,soho,10:59,20:00,3,true
+43,Zoombox,Chinese,cheap,upper west side,10:59,20:00,3,false
+44,Rhycero,Indian,medium,down town,11:00,20:00,2,true
+45,Aimbo,American,expensive,down town,10:59,20:00,2,true
+46,Yabox,Indian,expensive,upper west side,11:00,20:00,1,true
+47,Flipopia,American,cheap,upper west side,10:59,20:00,1,true
+48,Camimbo,Indian,medium,midtown,10:59,20:00,3,true
+49,Aibox,Japanese,medium,down town,10:59,20:00,5,false
+50,Voonte,American,medium,upper east side,10:59,20:00,4,false
+51,Vimbo,Indian,medium,upper west side,10:59,20:00,3,true
+52,Browsetype,Indian,medium,midtown,10:59,20:00,3,true
+53,Browsecat,Indian,medium,down town,10:59,20:00,5,true
+54,Skivee,American,expensive,upper east side,10:59,20:00,3,true
+55,Gabcube,Japanese,cheap,down town,10:59,20:00,2,false
+56,Demivee,Chinese,cheap,upper east side,10:59,20:00,5,true
+57,Twimm,Chinese,expensive,down town,10:59,20:00,2,true
+58,Gevee,Japanese,cheap,upper west side,10:59,20:00,2,false
+59,Voonte,American,medium,upper west side,10:59,20:00,4,false
+60,Gabcube,Indian,expensive,down town,10:59,20:00,4,true
+61,Dynabox,Japanese,medium,upper west side,10:59,20:00,1,false
+62,Quaxo,Indian,expensive,upper west side,10:59,20:00,2,false
+63,Riffwire,Indian,cheap,upper east side,10:59,20:00,3,false
+64,Babbleblab,American,medium,soho,10:59,20:00,2,false
+65,Thoughtmix,American,medium,upper west side,10:59,20:00,2,true
+66,Photolist,Chinese,cheap,midtown,10:59,20:00,4,true
+67,Einti,Chinese,medium,soho,10:59,20:00,4,false
+68,Eare,Indian,medium,upper west side,10:59,20:00,3,true
+69,Voonyx,American,cheap,midtown,10:59,20:00,1,false
+70,Zoomcast,Japanese,medium,midtown,10:59,20:00,5,false
+71,Devcast,Chinese,cheap,upper west side,10:59,20:00,2,true
+72,Realblab,American,medium,upper east side,10:59,20:00,1,false
+73,Jabbersphere,Japanese,expensive,midtown,10:59,20:00,1,true
+74,Jaxnation,Chinese,cheap,midtown,10:59,20:00,4,true
+75,Skajo,Japanese,expensive,soho,10:59,20:00,3,true
+76,Twitterbeat,Chinese,medium,soho,10:59,20:00,5,true
+77,Quatz,Indian,expensive,down town,10:59,20:00,1,false
+78,Fanoodle,Indian,cheap,soho,10:59,20:00,3,true
+79,Dabfeed,Chinese,medium,soho,10:59,20:00,4,true
+80,Oyonder,Indian,cheap,down town,10:59,20:00,1,true
+81,Buzzster,Chinese,cheap,upper west side,10:59,20:00,2,false
+82,Zoonder,Japanese,expensive,upper west side,10:59,20:00,5,false
+83,Buzzster,Indian,medium,soho,10:59,20:00,5,true
+84,Tagcat,Chinese,cheap,down town,10:59,20:00,3,false
+85,Riffpedia,Indian,expensive,upper west side,10:59,20:00,1,false
+86,Teklist,Indian,cheap,down town,10:59,20:00,2,true
+87,Photobug,American,expensive,soho,10:59,20:00,3,true
+88,Demivee,Chinese,medium,upper west side,10:59,20:00,2,false
+89,Miboo,American,expensive,upper east side,10:59,20:00,3,false
+90,Demimbu,Chinese,cheap,soho,10:59,20:00,5,false
+91,Youfeed,Chinese,cheap,soho,10:59,20:00,5,true
+92,Gabtune,American,cheap,midtown,10:59,20:00,4,true
+93,Oodoo,American,expensive,upper west side,10:59,20:00,4,true
+94,Flashset,Chinese,expensive,upper west side,10:59,20:00,1,false
+95,Buzzshare,Japanese,expensive,midtown,11:00,20:00,3,true
+96,Thoughtblab,American,medium,soho,10:59,20:00,3,false
+97,Skiba,Japanese,cheap,upper west side,10:59,20:00,5,false
+98,Devbug,Japanese,cheap,down town,10:59,20:00,1,false
+99,Jabbersphere,Chinese,cheap,upper west side,10:59,20:00,3,true
+100,Meeveo,Japanese,medium,soho,10:59,20:00,5,true
+101,Quimba,Japanese,cheap,down town,10:59,20:00,1,true
+102,Devpulse,American,cheap,upper east side,10:59,20:00,5,false
+103,Thoughtstorm,Chinese,expensive,midtown,10:59,20:00,2,false
+104,Buzzster,American,expensive,midtown,10:59,20:00,5,false
+105,Ailane,Chinese,expensive,soho,10:59,20:00,2,true
+106,Shufflester,Japanese,expensive,midtown,10:59,20:00,3,false
+107,Flashspan,Chinese,cheap,midtown,10:59,20:00,5,false
+108,Youbridge,Indian,medium,upper east side,10:59,20:00,3,true
+109,Fanoodle,Indian,medium,down town,10:59,20:00,5,true
+110,Babbleset,Chinese,expensive,midtown,10:59,20:00,1,false
+111,Kwimbee,Japanese,medium,upper east side,10:59,20:00,4,false
+112,Gabvine,American,cheap,upper east side,10:59,20:00,2,true
+113,Rooxo,American,cheap,upper west side,10:59,20:00,3,false
+114,Blogtags,Japanese,cheap,upper west side,10:59,20:00,2,true
+115,Twimbo,Japanese,cheap,down town,10:59,20:00,3,false
+116,Linklinks,American,expensive,down town,10:59,20:00,5,true
+117,Roomm,Chinese,cheap,upper west side,10:59,20:00,2,true
+118,Tanoodle,American,expensive,upper east side,10:59,20:00,1,false
+119,Devpulse,Japanese,medium,soho,10:59,20:00,3,true
+120,Voomm,American,expensive,upper east side,10:59,20:00,4,false
+121,Tagtune,Chinese,cheap,midtown,10:59,20:00,3,false
+122,Skiptube,Indian,medium,upper west side,10:59,20:00,2,false
+123,Flashpoint,Indian,medium,upper east side,10:59,20:00,4,true
+124,Oyoyo,Japanese,cheap,down town,10:59,20:00,3,true
+125,Gigaclub,Chinese,expensive,upper east side,10:59,20:00,1,false
+126,Meezzy,American,cheap,down town,10:59,20:00,3,false
+127,Dabtype,Indian,medium,down town,10:59,20:00,5,true
+128,Youopia,Japanese,medium,soho,10:59,20:00,5,false
+129,Trupe,Japanese,expensive,upper west side,10:59,20:00,3,true
+130,Demizz,Indian,medium,upper west side,10:59,20:00,5,true
+131,Thoughtmix,Japanese,expensive,soho,10:59,20:00,2,false
+132,Wikizz,American,medium,midtown,10:59,20:00,1,true
+133,Dabjam,Indian,medium,midtown,10:59,20:00,2,false
+134,Meevee,Indian,expensive,down town,10:59,20:00,2,false
+135,Feedfire,Chinese,expensive,soho,10:59,20:00,5,true
+136,Voomm,Japanese,cheap,soho,10:59,20:00,4,true
+137,Feedspan,Japanese,medium,upper west side,10:59,20:00,2,false
+138,Skyvu,Japanese,cheap,upper west side,10:59,20:00,1,false
+139,Skalith,American,cheap,soho,10:59,20:00,1,false
+140,Gevee,Indian,expensive,midtown,10:59,20:00,4,true
+141,Photospace,American,expensive,soho,10:59,20:00,1,false
+142,Photojam,Indian,medium,soho,10:59,20:00,5,false
+143,Meeveo,American,cheap,upper east side,10:59,20:00,4,false
+144,Feedfish,American,expensive,down town,10:59,20:00,1,true
+145,Voomm,Japanese,medium,midtown,10:59,20:00,4,false
+146,Tagpad,Indian,medium,soho,10:59,20:00,3,false
+147,Omba,Chinese,medium,soho,10:59,20:00,5,false
+148,Devpoint,Indian,cheap,soho,10:59,20:00,1,false
+149,Devify,Japanese,expensive,upper east side,10:59,20:00,2,false
+150,Livefish,American,expensive,soho,10:59,20:00,2,true
+151,Ooba,Japanese,cheap,soho,10:59,20:00,2,false
+152,InnoZ,American,expensive,down town,10:59,20:00,4,true
+153,Thoughtworks,Japanese,cheap,upper west side,10:59,20:00,5,true
+154,Thoughtmix,Indian,expensive,upper east side,10:59,20:00,3,false
+155,Thoughtsphere,Japanese,medium,upper west side,10:59,20:00,4,false
+156,Skibox,Japanese,expensive,upper west side,10:59,20:00,5,true
+157,LiveZ,Japanese,expensive,down town,10:59,20:00,3,false
+158,Kwinu,Chinese,expensive,upper west side,10:59,20:00,1,false
+159,Yodel,Japanese,medium,upper west side,10:59,20:00,4,false
+160,Bubbletube,American,medium,upper east side,10:59,20:00,3,true
+161,Photobean,Japanese,medium,soho,10:59,20:00,5,true
+162,Yambee,Indian,cheap,upper west side,10:59,20:00,3,true
+163,Tekfly,American,expensive,midtown,10:59,20:00,3,true
+164,Meevee,American,expensive,midtown,10:59,20:00,1,true
+165,Oba,Indian,expensive,down town,10:59,20:00,2,true
+166,Gabtype,American,medium,down town,10:59,20:00,5,false
+167,Divanoodle,Chinese,cheap,upper west side,10:59,20:00,5,false
+168,Thoughtsphere,Chinese,cheap,midtown,10:59,20:00,1,true
+169,Mita,Indian,cheap,upper east side,10:59,20:00,4,true
+170,Skinix,Chinese,expensive,upper west side,10:59,20:00,1,false
+171,Mydo,Chinese,expensive,midtown,10:59,20:00,1,true
+172,Flashspan,Indian,medium,down town,10:59,20:00,2,true
+173,Abatz,Indian,cheap,down town,10:59,20:00,1,false
+174,Wordpedia,Japanese,expensive,upper east side,10:59,20:00,4,false
+175,Jatri,Chinese,expensive,soho,10:59,20:00,1,false
+176,Oyoba,Indian,expensive,soho,10:59,20:00,3,false
+177,Avamba,American,cheap,upper east side,10:59,20:00,3,true
+178,Babbleopia,Japanese,expensive,down town,10:59,20:00,5,false
+179,Rhynoodle,Chinese,cheap,down town,10:59,20:00,3,true
+180,Dynabox,Indian,expensive,upper west side,10:59,20:00,2,true
+181,Zoomdog,Indian,cheap,down town,10:59,20:00,3,false
+182,Avaveo,Indian,expensive,soho,10:59,20:00,3,false
+183,Katz,American,expensive,down town,10:59,20:00,3,true
+184,Quinu,Chinese,cheap,midtown,10:59,20:00,4,false
+185,Jaxnation,American,expensive,upper west side,10:59,20:00,5,false
+186,Wordtune,Japanese,medium,midtown,10:59,20:00,4,false
+187,Kazu,American,medium,upper west side,10:59,20:00,4,true
+188,Minyx,Indian,expensive,midtown,10:59,20:00,5,true
+189,Babblestorm,Chinese,cheap,midtown,10:59,20:00,2,false
+190,Devcast,American,cheap,upper east side,10:59,20:00,1,false
+191,Rhynyx,Indian,expensive,midtown,10:59,20:00,1,true
+192,Zava,Chinese,expensive,midtown,10:59,20:00,2,false
+193,Miboo,Japanese,medium,down town,10:59,20:00,3,false
+194,Mudo,Japanese,cheap,upper west side,10:59,20:00,3,true
+195,Edgeblab,Japanese,cheap,down town,10:59,20:00,5,true
+196,InnoZ,Chinese,medium,midtown,10:59,20:00,1,true
+197,Babbleblab,Japanese,medium,down town,10:59,20:00,1,false
+198,Trudoo,Indian,expensive,upper east side,10:59,20:00,3,false
+199,Jabberstorm,American,expensive,down town,10:59,20:00,4,false
+200,Latz,Indian,cheap,midtown,10:59,20:00,3,false
+201,Flipbug,Indian,medium,upper east side,10:59,20:00,1,true
+202,Brightdog,Japanese,expensive,midtown,10:59,20:00,3,false
+203,Feedbug,Chinese,cheap,upper west side,10:59,20:00,5,true
+204,Yodoo,American,expensive,soho,10:59,20:00,2,false
+205,Muxo,Indian,medium,upper west side,10:59,20:00,5,false
+206,Rhycero,Chinese,cheap,soho,10:59,20:00,4,true
+207,Voomm,American,medium,upper east side,10:59,20:00,5,false
+208,Skajo,American,cheap,upper west side,10:59,20:00,3,false
+209,Trupe,American,cheap,upper east side,10:59,20:00,1,true
+210,Roodel,Chinese,medium,down town,10:59,20:00,5,true
+211,Pixonyx,Japanese,expensive,upper east side,10:59,20:00,3,true
+212,Kwideo,Chinese,expensive,upper east side,10:59,20:00,3,true
+213,Zooxo,Japanese,cheap,soho,10:59,20:00,3,true
+214,Brightdog,American,expensive,soho,10:59,20:00,4,true
+215,Mynte,Japanese,medium,down town,11:00,20:00,5,true
+216,Jaxworks,Indian,cheap,midtown,10:59,20:00,5,true
+217,Skinix,Chinese,medium,soho,10:59,20:00,4,true
+218,Quimm,American,cheap,soho,10:59,20:00,5,false
+219,Topiclounge,Chinese,cheap,midtown,10:59,20:00,4,true
+220,Lazzy,Chinese,expensive,upper east side,10:59,20:00,2,false
+221,Avamm,American,cheap,soho,10:59,20:00,1,true
+222,Blognation,Chinese,cheap,upper east side,10:59,20:00,4,false
+223,Oyoyo,Indian,cheap,down town,10:59,20:00,2,true
+224,Blognation,American,medium,midtown,10:59,20:00,5,false
+225,Cogidoo,Japanese,medium,upper east side,10:59,20:00,3,false
+226,Skyba,Indian,medium,upper east side,10:59,20:00,3,true
+227,Jaloo,Chinese,cheap,down town,10:59,20:00,3,true
+228,Gabvine,Chinese,medium,upper east side,10:59,20:00,3,false
+229,Riffwire,Chinese,medium,upper east side,10:59,20:00,2,false
+230,Topiczoom,Chinese,expensive,upper west side,10:59,20:00,2,false
+231,Kimia,Indian,cheap,down town,10:59,20:00,4,false
+232,Teklist,Japanese,cheap,down town,10:59,20:00,2,false
+233,Topdrive,Japanese,expensive,down town,10:59,20:00,3,true
+234,Quatz,Japanese,cheap,down town,10:59,20:00,4,false
+235,Yacero,Japanese,medium,upper west side,10:59,20:00,5,false
+236,Tazz,Chinese,expensive,upper west side,10:59,20:00,5,false
+237,Fivebridge,American,medium,soho,10:59,20:00,2,true
+238,Zoomzone,Chinese,medium,soho,10:59,20:00,1,false
+239,Myworks,American,medium,soho,10:59,20:00,2,false
+240,Fivebridge,Indian,cheap,midtown,10:59,20:00,3,false
+241,Jaxbean,Japanese,medium,midtown,10:59,20:00,2,true
+242,Gabtune,Indian,expensive,soho,10:59,20:00,1,false
+243,Kimia,Chinese,expensive,soho,10:59,20:00,3,true
+244,Riffpath,American,cheap,upper west side,10:59,20:00,1,false
+245,Zoonoodle,American,expensive,soho,10:59,20:00,4,false
+246,Centimia,Chinese,medium,upper east side,10:59,20:00,1,false
+247,Babblestorm,American,expensive,upper west side,10:59,20:00,5,true
+248,Linkbridge,Indian,medium,down town,10:59,20:00,4,false
+249,Livepath,Chinese,expensive,down town,10:59,20:00,4,false
+250,Tanoodle,Japanese,expensive,down town,10:59,20:00,4,false
+251,Skajo,Japanese,expensive,soho,10:59,20:00,5,true
+252,Brainverse,Chinese,medium,midtown,10:59,20:00,2,false
+253,Skajo,American,medium,soho,10:59,20:00,4,false
+254,Dabshots,American,cheap,upper west side,10:59,20:00,3,false
+255,Flipopia,Indian,medium,upper east side,10:59,20:00,1,true
+256,Twinder,Indian,medium,down town,10:59,20:00,5,false
+257,Skippad,Indian,cheap,soho,10:59,20:00,5,false
+258,Rhybox,Chinese,medium,upper west side,10:59,20:00,1,false
+259,Edgeblab,Japanese,expensive,midtown,10:59,20:00,1,false
+260,Babblestorm,Japanese,expensive,down town,10:59,20:00,4,true
+261,Tagfeed,Indian,cheap,down town,10:59,20:00,1,true
+262,Lazzy,Indian,expensive,upper west side,10:59,20:00,2,true
+263,Blognation,American,expensive,soho,10:59,20:00,2,true
+264,Roodel,American,medium,upper east side,10:59,20:00,4,true
+265,Zava,Chinese,medium,soho,10:59,20:00,1,true
+266,Flashspan,Chinese,medium,down town,10:59,20:00,1,false
+267,Feedfire,American,medium,upper east side,10:59,20:00,5,true
+268,Yacero,Chinese,medium,soho,10:59,20:00,2,true
+269,Tagopia,American,expensive,midtown,10:59,20:00,2,true
+270,Photobug,Japanese,expensive,midtown,10:59,20:00,5,true
+271,Yodel,Japanese,medium,down town,10:59,20:00,4,false
+272,Jabbertype,Japanese,cheap,upper west side,10:59,20:00,4,false
+273,Pixope,Indian,medium,upper east side,10:59,20:00,2,true
+274,Oba,Japanese,expensive,upper west side,10:59,20:00,1,false
+275,Livetube,Indian,medium,upper west side,10:59,20:00,3,false
+276,Skyba,Indian,medium,midtown,10:59,20:00,2,true
+277,Feednation,American,cheap,midtown,10:59,20:00,4,false
+278,Wikido,American,cheap,down town,10:59,20:00,3,true
+279,Eamia,American,cheap,upper west side,10:59,20:00,1,true
+280,Skipfire,Indian,medium,soho,10:59,20:00,3,true
+281,Nlounge,Indian,cheap,midtown,10:59,20:00,5,true
+282,Izio,Indian,cheap,soho,10:59,20:00,4,true
+283,Avavee,Chinese,medium,midtown,10:59,20:00,2,false
+284,Janyx,Japanese,medium,upper east side,10:59,20:00,4,true
+285,Skynoodle,Chinese,expensive,midtown,10:59,20:00,3,false
+286,Mybuzz,Chinese,medium,down town,10:59,20:00,1,true
+287,Skimia,Indian,expensive,down town,10:59,20:00,2,false
+288,Flashset,Indian,medium,down town,10:59,20:00,4,false
+289,Gigaclub,Indian,medium,down town,10:59,20:00,5,true
+290,Wikido,Japanese,cheap,upper west side,10:59,20:00,5,false
+291,Topdrive,Indian,cheap,upper west side,10:59,20:00,3,true
+292,Skilith,Japanese,expensive,midtown,10:59,20:00,4,false
+293,Rhyloo,Japanese,medium,upper east side,10:59,20:00,4,false
+294,Agimba,American,medium,midtown,10:59,20:00,4,false
+295,Mita,Japanese,medium,upper west side,10:59,20:00,3,true
+296,Browsezoom,Japanese,expensive,down town,10:59,20:00,2,true
+297,Quimm,Chinese,expensive,midtown,10:59,20:00,4,true
+298,Jabbersphere,Chinese,expensive,upper west side,10:59,20:00,5,true
+299,Rooxo,Indian,cheap,down town,10:59,20:00,5,true
+300,Gigabox,Chinese,medium,soho,10:59,20:00,5,false
+301,Yabox,Chinese,expensive,down town,10:59,20:00,2,false
+302,Mudo,Japanese,cheap,soho,10:59,20:00,5,false
+303,Plambee,Japanese,medium,upper west side,11:00,20:00,5,false
+304,Rhyzio,Indian,expensive,midtown,10:59,20:00,3,false
+305,LiveZ,Chinese,medium,upper east side,10:59,20:00,1,false
+306,Devpulse,American,medium,upper east side,10:59,20:00,5,false
+307,Quinu,Indian,cheap,down town,10:59,20:00,4,false
+308,Cogibox,Japanese,medium,soho,10:59,20:00,1,false
+309,Trilith,Indian,expensive,soho,10:59,20:00,5,true
+310,Edgeclub,American,medium,soho,10:59,20:00,5,true
+311,Kwideo,Japanese,expensive,upper west side,10:59,20:00,3,true
+312,Yodo,Indian,expensive,midtown,10:59,20:00,1,true
+313,Devpulse,American,expensive,soho,10:59,20:00,5,false
+314,Tambee,Chinese,expensive,midtown,10:59,20:00,4,false
+315,Tagcat,Chinese,expensive,down town,10:59,20:00,3,false
+316,Wikizz,Chinese,expensive,upper east side,10:59,20:00,4,false
+317,Kazio,Japanese,cheap,midtown,10:59,20:00,3,false
+318,Shuffletag,American,medium,soho,10:59,20:00,3,false
+319,Quamba,American,medium,upper east side,10:59,20:00,4,true
+320,Tambee,Indian,medium,down town,10:59,20:00,4,false
+321,Gabcube,American,expensive,upper east side,10:59,20:00,2,false
+322,Eare,American,expensive,down town,10:59,20:00,3,false
+323,Vipe,Japanese,medium,soho,10:59,20:00,4,false
+324,Fivespan,Indian,expensive,down town,10:59,20:00,2,true
+325,Ntags,Indian,expensive,down town,10:59,20:00,1,false
+326,Thoughtbeat,Indian,cheap,upper west side,10:59,20:00,2,true
+327,Ooba,American,medium,soho,10:59,20:00,4,true
+328,Ooba,Indian,medium,upper east side,10:59,20:00,5,false
+329,Viva,American,expensive,down town,10:59,20:00,1,false
+330,Riffpath,Chinese,cheap,midtown,10:59,20:00,2,true
+331,Skidoo,Chinese,expensive,upper east side,11:00,20:00,2,false
+332,Fliptune,Japanese,cheap,soho,10:59,20:00,1,false
+333,Tagtune,American,cheap,soho,10:59,20:00,5,false
+334,Dablist,Chinese,medium,soho,10:59,20:00,2,false
+335,Browseblab,American,cheap,soho,10:59,20:00,1,false
+336,Omba,Indian,cheap,upper east side,10:59,20:00,1,false
+337,Podcat,American,medium,midtown,10:59,20:00,1,true
+338,Brainbox,American,cheap,midtown,10:59,20:00,2,false
+339,Yodo,Indian,medium,down town,10:59,20:00,5,true
+340,Oodoo,American,medium,midtown,10:59,20:00,3,false
+341,Yakidoo,Japanese,cheap,upper east side,10:59,20:00,3,false
+342,Jayo,Japanese,medium,down town,10:59,20:00,1,true
+343,Devify,American,expensive,upper west side,11:00,20:00,2,true
+344,Fiveclub,Japanese,expensive,down town,10:59,20:00,5,true
+345,Zooveo,Indian,expensive,midtown,10:59,20:00,2,true
+346,Fivechat,Indian,medium,upper east side,10:59,20:00,5,false
+347,Youspan,Indian,cheap,upper east side,10:59,20:00,1,true
+348,Mynte,Chinese,medium,midtown,10:59,20:00,5,true
+349,Buzzster,Japanese,cheap,upper east side,10:59,20:00,3,false
+350,Realbuzz,Japanese,expensive,soho,10:59,20:00,4,false
+351,Meemm,American,medium,midtown,10:59,20:00,5,true
+352,Skibox,Chinese,expensive,upper east side,10:59,20:00,5,false
+353,Digitube,Chinese,expensive,upper east side,10:59,20:00,3,false
+354,Jaloo,Chinese,cheap,soho,10:59,20:00,2,true
+355,Tekfly,Indian,medium,upper west side,10:59,20:00,5,true
+356,Babbleopia,Chinese,expensive,soho,10:59,20:00,3,false
+357,Brightbean,American,cheap,upper west side,10:59,20:00,3,true
+358,Flashdog,Chinese,medium,midtown,10:59,20:00,3,true
+359,Camido,Indian,cheap,upper west side,10:59,20:00,3,false
+360,Edgeify,Japanese,medium,upper east side,10:59,20:00,5,false
+361,Vidoo,Chinese,medium,upper west side,10:59,20:00,5,false
+362,Oyondu,Japanese,cheap,upper east side,10:59,20:00,3,true
+363,Skibox,Japanese,medium,down town,10:59,20:00,5,false
+364,Dabfeed,Chinese,medium,midtown,10:59,20:00,2,false
+365,Jaxnation,Indian,expensive,down town,11:00,20:00,2,true
+366,Leenti,American,medium,upper west side,10:59,20:00,2,true
+367,Voomm,Chinese,expensive,upper east side,10:59,20:00,2,false
+368,Voomm,American,cheap,soho,10:59,20:00,2,true
+369,Twinder,Chinese,medium,upper west side,10:59,20:00,5,true
+370,Skinder,American,cheap,down town,10:59,20:00,1,true
+371,Digitube,American,cheap,midtown,10:59,20:00,4,false
+372,Meetz,Japanese,medium,soho,10:59,20:00,3,false
+373,Kare,Indian,cheap,upper west side,10:59,20:00,4,false
+374,Thoughtbeat,Indian,expensive,soho,10:59,20:00,1,false
+375,Myworks,American,expensive,midtown,10:59,20:00,3,true
+376,Brightdog,Chinese,expensive,midtown,10:59,20:00,4,false
+377,Brainsphere,American,cheap,upper west side,10:59,20:00,2,false
+378,Gabtune,Indian,medium,upper west side,10:59,20:00,3,false
+379,Kimia,American,medium,upper west side,10:59,20:00,2,true
+380,Kamba,Chinese,medium,midtown,10:59,20:00,4,true
+381,Shuffletag,American,medium,upper west side,10:59,20:00,1,false
+382,Zoombox,Japanese,medium,upper west side,10:59,20:00,3,false
+383,Camido,Indian,expensive,upper west side,10:59,20:00,4,false
+384,Devpulse,Japanese,medium,down town,10:59,20:00,3,false
+385,Thoughtstorm,American,expensive,down town,10:59,20:00,5,false
+386,Eamia,Chinese,medium,upper west side,10:59,20:00,1,false
+387,Kayveo,Indian,cheap,down town,10:59,20:00,4,true
+388,Linkbuzz,American,cheap,upper east side,10:59,20:00,2,false
+389,Zoozzy,Indian,expensive,down town,10:59,20:00,4,true
+390,Vinder,Japanese,cheap,upper west side,10:59,20:00,2,true
+391,Jabbersphere,Chinese,cheap,midtown,10:59,20:00,5,true
+392,Topiczoom,Chinese,expensive,upper east side,10:59,20:00,2,false
+393,Tagchat,Chinese,medium,soho,10:59,20:00,1,true
+394,Topicware,Chinese,medium,soho,10:59,20:00,4,false
+395,Innotype,Chinese,cheap,upper west side,10:59,20:00,1,true
+396,Topicblab,Indian,cheap,upper west side,10:59,20:00,4,false
+397,Realblab,Chinese,cheap,down town,10:59,20:00,1,false
+398,Photobug,Indian,cheap,upper east side,10:59,20:00,3,true
+399,Trunyx,American,cheap,down town,10:59,20:00,2,true
+400,Dazzlesphere,Indian,expensive,down town,10:59,20:00,1,true
+401,Jaxworks,Chinese,cheap,midtown,10:59,20:00,1,false
+402,Thoughtmix,Japanese,medium,upper east side,10:59,20:00,4,false
+403,Edgetag,Chinese,expensive,upper west side,10:59,20:00,2,true
+404,Mymm,Japanese,expensive,upper west side,10:59,20:00,3,true
+405,Eabox,American,medium,upper west side,10:59,20:00,5,true
+406,Ozu,American,medium,midtown,10:59,20:00,5,false
+407,Teklist,Japanese,expensive,upper west side,10:59,20:00,1,true
+408,Ailane,Indian,expensive,soho,10:59,20:00,1,false
+409,Quimm,Japanese,medium,soho,10:59,20:00,1,false
+410,Meembee,Indian,expensive,upper west side,10:59,20:00,2,false
+411,Blogtag,Chinese,medium,upper east side,10:59,20:00,2,true
+412,Roomm,Indian,expensive,midtown,10:59,20:00,5,false
+413,Layo,Japanese,medium,upper east side,10:59,20:00,2,true
+414,Cogidoo,American,cheap,soho,10:59,20:00,2,true
+415,Tazzy,American,medium,upper west side,10:59,20:00,3,true
+416,Photobug,American,expensive,down town,10:59,20:00,3,false
+417,Rhyloo,American,medium,upper west side,10:59,20:00,4,true
+418,Katz,Indian,medium,down town,10:59,20:00,4,false
+419,Thoughtstorm,Chinese,cheap,midtown,10:59,20:00,4,true
+420,Latz,Chinese,medium,midtown,10:59,20:00,5,true
+421,Trunyx,Chinese,medium,upper east side,10:59,20:00,5,false
+422,Avaveo,Japanese,expensive,soho,10:59,20:00,5,false
+423,Oozz,Chinese,cheap,down town,10:59,20:00,2,true
+424,Photospace,Chinese,medium,soho,10:59,20:00,3,false
+425,Jabbercube,Indian,cheap,soho,10:59,20:00,4,true
+426,Kwilith,Chinese,medium,upper west side,10:59,20:00,3,true
+427,Jaxnation,Japanese,medium,down town,11:00,20:00,3,false
+428,Tekfly,Japanese,cheap,midtown,10:59,20:00,4,true
+429,Topicblab,Indian,expensive,midtown,10:59,20:00,3,false
+430,Livefish,American,medium,upper west side,10:59,20:00,5,false
+431,Wordware,American,expensive,midtown,10:59,20:00,4,true
+432,Skaboo,American,expensive,upper west side,10:59,20:00,4,true
+433,Latz,American,medium,upper east side,10:59,20:00,4,true
+434,Tagfeed,Japanese,cheap,midtown,10:59,20:00,4,true
+435,Dazzlesphere,Indian,cheap,upper west side,10:59,20:00,5,true
+436,Oloo,Chinese,medium,soho,10:59,20:00,2,false
+437,Skaboo,Indian,cheap,soho,10:59,20:00,2,true
+438,Trudoo,Japanese,expensive,soho,10:59,20:00,3,false
+439,Skinte,Japanese,medium,down town,10:59,20:00,2,true
+440,Avavee,Japanese,cheap,soho,10:59,20:00,5,true
+441,Thoughtworks,Japanese,medium,upper west side,10:59,20:00,3,false
+442,Bubblebox,Indian,expensive,upper east side,10:59,20:00,2,false
+443,Vinte,Indian,cheap,down town,10:59,20:00,3,false
+444,Demivee,Japanese,medium,midtown,10:59,20:00,2,true
+445,Thoughtstorm,Chinese,medium,upper west side,10:59,20:00,2,true
+446,Oba,Japanese,medium,upper west side,10:59,20:00,2,true
+447,Flashspan,Indian,expensive,upper east side,10:59,20:00,3,false
+448,Skibox,Chinese,medium,midtown,10:59,20:00,1,false
+449,Photobug,American,cheap,down town,10:59,20:00,2,true
+450,Yodo,Japanese,cheap,upper east side,10:59,20:00,5,true
+451,Linktype,American,medium,upper east side,10:59,20:00,1,true
+452,Youspan,Indian,expensive,upper west side,10:59,20:00,2,false
+453,Devshare,Chinese,medium,upper west side,10:59,20:00,4,true
+454,Livepath,Japanese,cheap,soho,10:59,20:00,5,false
+455,Wordware,Japanese,cheap,midtown,10:59,20:00,5,false
+456,Yoveo,Chinese,expensive,upper east side,10:59,20:00,5,false
+457,Twiyo,Japanese,medium,soho,10:59,20:00,1,false
+458,Bubbletube,Japanese,medium,soho,10:59,20:00,3,false
+459,Jabbersphere,Chinese,cheap,upper east side,10:59,20:00,4,false
+460,Mita,Indian,medium,soho,10:59,20:00,4,false
+461,Topiclounge,Japanese,medium,soho,10:59,20:00,5,true
+462,Skinix,Chinese,cheap,upper west side,10:59,20:00,3,true
+463,Gabspot,American,medium,soho,10:59,20:00,4,true
+464,Trunyx,Chinese,cheap,midtown,10:59,20:00,3,false
+465,Zoomlounge,Chinese,medium,down town,10:59,20:00,5,false
+466,Thoughtbridge,Indian,expensive,soho,10:59,20:00,5,false
+467,Thoughtsphere,American,cheap,upper east side,10:59,20:00,2,false
+468,Snaptags,Japanese,cheap,soho,10:59,20:00,2,false
+469,Izio,American,medium,upper east side,10:59,20:00,1,false
+470,Skyble,American,cheap,upper east side,10:59,20:00,2,true
+471,Kayveo,American,cheap,upper east side,10:59,20:00,4,false
+472,Rhybox,American,expensive,down town,10:59,20:00,4,false
+473,Kazio,American,cheap,down town,10:59,20:00,2,true
+474,LiveZ,Japanese,expensive,upper west side,10:59,20:00,4,false
+475,Oyoloo,American,expensive,soho,10:59,20:00,4,true
+476,Photobean,Indian,medium,down town,10:59,20:00,2,false
+477,Muxo,American,cheap,upper west side,10:59,20:00,2,false
+478,Browseblab,Japanese,expensive,midtown,10:59,20:00,5,true
+479,Camido,Chinese,cheap,upper east side,10:59,20:00,3,true
+480,Aimbu,Japanese,expensive,upper east side,10:59,20:00,2,true
+481,Thoughtbeat,Japanese,cheap,midtown,10:59,20:00,4,false
+482,Oyonder,Indian,medium,soho,10:59,20:00,4,true
+483,Thoughtstorm,American,expensive,upper east side,10:59,20:00,2,true
+484,Camido,Japanese,cheap,soho,10:59,20:00,5,false
+485,Centidel,Japanese,cheap,down town,10:59,20:00,1,true
+486,Pixoboo,Indian,cheap,upper east side,10:59,20:00,4,false
+487,Zoozzy,Indian,medium,upper west side,10:59,20:00,1,false
+488,Mybuzz,American,medium,soho,10:59,20:00,1,true
+489,Kimia,Chinese,medium,upper west side,10:59,20:00,2,false
+490,Realpoint,Indian,expensive,soho,10:59,20:00,1,false
+491,Demivee,Japanese,expensive,upper west side,10:59,20:00,5,true
+492,Aimbo,Indian,medium,upper east side,10:59,20:00,2,false
+493,Jabbersphere,American,expensive,soho,10:59,20:00,4,false
+494,Muxo,Japanese,expensive,down town,10:59,20:00,4,false
+495,Skiba,Japanese,expensive,down town,11:00,20:00,3,true
+496,Kwideo,American,medium,down town,10:59,20:00,2,false
+497,Tagopia,Japanese,cheap,upper west side,10:59,20:00,1,false
+498,Bubblemix,American,cheap,soho,10:59,20:00,3,true
+499,Ozu,Chinese,expensive,midtown,10:59,20:00,3,false
+500,Lazz,Indian,medium,upper east side,10:59,20:00,1,false
+501,Tazz,Indian,cheap,midtown,10:59,20:00,5,false
+502,Twitterlist,Indian,medium,midtown,10:59,20:00,3,false
+503,Dabjam,American,cheap,upper east side,10:59,20:00,5,true
+504,Rhycero,American,medium,down town,10:59,20:00,5,false
+505,Voomm,Japanese,expensive,soho,10:59,20:00,4,false
+506,Latz,Japanese,expensive,down town,10:59,20:00,2,false
+507,Vimbo,Japanese,medium,upper east side,10:59,20:00,5,false
+508,Gigabox,American,expensive,upper east side,10:59,20:00,2,true
+509,Eadel,Chinese,cheap,upper west side,10:59,20:00,2,true
+510,Flashset,Chinese,expensive,down town,10:59,20:00,4,true
+511,Blogspan,Indian,cheap,midtown,10:59,20:00,1,true
+512,Topiczoom,Japanese,cheap,soho,10:59,20:00,3,false
+513,Innotype,Japanese,cheap,upper west side,11:00,20:00,1,true
+514,Skiba,Indian,medium,soho,10:59,20:00,3,true
+515,InnoZ,Chinese,cheap,midtown,10:59,20:00,5,false
+516,Jatri,American,expensive,midtown,10:59,20:00,3,false
+517,Vitz,Indian,medium,midtown,10:59,20:00,3,true
+518,Zoomzone,Japanese,medium,soho,10:59,20:00,3,false
+519,Realpoint,Japanese,medium,midtown,10:59,20:00,1,true
+520,Wikivu,Japanese,expensive,midtown,10:59,20:00,5,true
+521,Voonix,Chinese,expensive,midtown,10:59,20:00,2,false
+522,Jaxbean,Indian,medium,upper east side,10:59,20:00,1,true
+523,Podcat,Chinese,cheap,down town,10:59,20:00,5,true
+524,Flashpoint,Chinese,cheap,down town,10:59,20:00,1,true
+525,Geba,Chinese,cheap,upper west side,10:59,20:00,2,true
+526,Dynazzy,Japanese,cheap,upper west side,10:59,20:00,4,true
+527,Topdrive,Indian,cheap,down town,10:59,20:00,3,false
+528,Dabtype,Indian,medium,upper east side,10:59,20:00,3,true
+529,Oba,Japanese,expensive,upper east side,10:59,20:00,2,false
+530,Tavu,Chinese,medium,upper west side,10:59,20:00,1,true
+531,Katz,Chinese,expensive,upper west side,10:59,20:00,3,false
+532,Quatz,Indian,cheap,upper east side,10:59,20:00,2,true
+533,Ntags,Chinese,cheap,down town,10:59,20:00,4,true
+534,Meedoo,Chinese,cheap,upper west side,10:59,20:00,2,true
+535,Thoughtmix,Japanese,expensive,midtown,10:59,20:00,2,true
+536,Gevee,Japanese,expensive,upper west side,10:59,20:00,2,true
+537,Gigazoom,American,expensive,down town,10:59,20:00,1,false
+538,Buzzshare,Japanese,medium,down town,10:59,20:00,2,false
+539,Dynazzy,Japanese,cheap,upper east side,10:59,20:00,3,true
+540,Avamm,American,expensive,upper west side,10:59,20:00,2,true
+541,Gabspot,Indian,cheap,upper west side,10:59,20:00,4,true
+542,Brainlounge,Chinese,expensive,upper east side,10:59,20:00,4,true
+543,Innojam,Japanese,medium,down town,10:59,20:00,1,false
+544,Vipe,Indian,cheap,upper west side,10:59,20:00,1,true
+545,Oloo,Indian,expensive,down town,10:59,20:00,1,false
+546,Bluezoom,Japanese,medium,soho,10:59,20:00,2,false
+547,Babbleopia,American,expensive,soho,10:59,20:00,3,false
+548,Edgewire,Indian,expensive,midtown,10:59,20:00,3,true
+549,Skibox,Japanese,medium,midtown,10:59,20:00,5,true
+550,Tavu,Chinese,medium,down town,10:59,20:00,2,true
+551,Nlounge,Indian,medium,soho,10:59,20:00,5,false
+552,Skyndu,American,cheap,down town,10:59,20:00,3,true
+553,Wordpedia,Japanese,medium,midtown,10:59,20:00,1,true
+554,Katz,Japanese,medium,soho,10:59,20:00,3,false
+555,Dynabox,Chinese,medium,soho,10:59,20:00,3,true
+556,Oodoo,Chinese,cheap,soho,11:00,20:00,4,false
+557,Youspan,American,medium,upper east side,10:59,20:00,5,false
+558,Eire,Indian,medium,down town,10:59,20:00,2,false
+559,Ntags,Japanese,cheap,upper east side,10:59,20:00,5,false
+560,Devcast,Indian,cheap,soho,10:59,20:00,2,false
+561,Latz,Chinese,expensive,upper west side,10:59,20:00,1,false
+562,Leexo,American,cheap,down town,10:59,20:00,4,true
+563,Rhycero,Japanese,medium,midtown,10:59,20:00,4,false
+564,Gigaclub,Chinese,expensive,down town,10:59,20:00,3,false
+565,Rhynoodle,Chinese,expensive,down town,10:59,20:00,1,true
+566,Dynabox,Indian,expensive,soho,10:59,20:00,4,false
+567,Innojam,Japanese,cheap,down town,10:59,20:00,3,false
+568,Feedmix,Indian,expensive,upper west side,10:59,20:00,4,false
+569,Yamia,Indian,expensive,soho,10:59,20:00,2,false
+570,Snaptags,Indian,expensive,upper east side,10:59,20:00,3,false
+571,Vidoo,Chinese,cheap,midtown,10:59,20:00,4,false
+572,Blogtags,Japanese,expensive,soho,10:59,20:00,4,false
+573,Rhybox,American,medium,midtown,10:59,20:00,1,false
+574,Jamia,Japanese,medium,upper west side,10:59,20:00,1,true
+575,Gabspot,American,expensive,upper west side,10:59,20:00,3,true
+576,Devpoint,Indian,expensive,midtown,10:59,20:00,4,false
+577,Trupe,Indian,cheap,down town,10:59,20:00,3,true
+578,Geba,American,cheap,soho,10:59,20:00,2,false
+579,Kwideo,Indian,expensive,upper east side,10:59,20:00,2,false
+580,Fivechat,Chinese,medium,soho,10:59,20:00,2,false
+581,Browsecat,Chinese,expensive,upper west side,10:59,20:00,5,false
+582,Brightdog,Japanese,cheap,upper east side,10:59,20:00,3,true
+583,Oozz,Indian,cheap,soho,10:59,20:00,3,true
+584,Dabvine,Indian,expensive,down town,10:59,20:00,2,true
+585,Mybuzz,Indian,cheap,soho,10:59,20:00,1,false
+586,Ooba,American,medium,upper west side,10:59,20:00,4,true
+587,Kanoodle,American,expensive,midtown,10:59,20:00,1,true
+588,Jetwire,Chinese,cheap,soho,10:59,20:00,2,true
+589,Realcube,Indian,medium,soho,10:59,20:00,5,true
+590,Zoozzy,Chinese,medium,upper west side,10:59,20:00,4,false
+591,Realbuzz,Japanese,cheap,upper west side,10:59,20:00,3,true
+592,Vidoo,Japanese,medium,upper west side,10:59,20:00,1,false
+593,Jabbersphere,Japanese,expensive,upper west side,10:59,20:00,3,true
+594,Brightbean,Japanese,cheap,upper west side,10:59,20:00,5,false
+595,Centizu,Chinese,medium,down town,10:59,20:00,2,true
+596,Jaxspan,Chinese,expensive,midtown,10:59,20:00,1,true
+597,Mita,Chinese,medium,midtown,10:59,20:00,3,false
+598,Brainsphere,American,cheap,upper east side,10:59,20:00,3,true
+599,Vitz,Indian,medium,midtown,10:59,20:00,5,false
+600,Yamia,Indian,cheap,midtown,10:59,20:00,1,false
+601,Avaveo,Chinese,expensive,upper east side,10:59,20:00,5,true
+602,Wikido,American,medium,down town,10:59,20:00,2,false
+603,Flipbug,Japanese,cheap,midtown,10:59,20:00,4,true
+604,Blogspan,Indian,cheap,soho,10:59,20:00,4,true
+605,Bubblemix,Chinese,expensive,soho,10:59,20:00,1,false
+606,Youspan,Japanese,expensive,upper west side,10:59,20:00,1,true
+607,Pixoboo,American,medium,upper east side,10:59,20:00,3,true
+608,Jayo,Chinese,medium,soho,10:59,20:00,3,false
+609,Jabberstorm,Chinese,medium,midtown,10:59,20:00,3,false
+610,Dabjam,Japanese,cheap,upper west side,10:59,20:00,1,false
+611,Twitterlist,American,cheap,upper west side,10:59,20:00,2,false
+612,Devcast,Japanese,cheap,upper east side,10:59,20:00,4,true
+613,Kamba,Chinese,medium,down town,10:59,20:00,4,true
+614,Mymm,Indian,cheap,midtown,10:59,20:00,2,true
+615,Meemm,American,expensive,down town,10:59,20:00,1,false
+616,Thoughtstorm,Japanese,medium,down town,10:59,20:00,1,false
+617,Dabvine,Japanese,cheap,upper west side,10:59,20:00,4,false
+618,Edgewire,American,expensive,midtown,10:59,20:00,3,false
+619,Browsezoom,Indian,medium,upper west side,10:59,20:00,2,false
+620,Twitterwire,American,medium,midtown,10:59,20:00,4,false
+621,Skyba,Japanese,medium,soho,10:59,20:00,4,true
+622,Tagopia,Chinese,expensive,upper west side,10:59,20:00,1,false
+623,Npath,Indian,expensive,upper west side,10:59,20:00,4,true
+624,Browsetype,American,cheap,midtown,10:59,20:00,2,true
+625,Yoveo,Chinese,expensive,soho,10:59,20:00,5,false
+626,Twitterworks,Chinese,medium,upper west side,10:59,20:00,2,true
+627,Edgeclub,Japanese,medium,upper west side,10:59,20:00,2,false
+628,Ntags,Japanese,medium,upper west side,10:59,20:00,4,false
+629,Zoozzy,Chinese,cheap,upper west side,10:59,20:00,2,true
+630,Brainverse,Indian,medium,soho,10:59,20:00,3,true
+631,Oyoyo,Chinese,cheap,soho,10:59,20:00,2,true
+632,Photobean,Chinese,expensive,midtown,10:59,20:00,4,false
+633,Brainsphere,American,medium,upper east side,10:59,20:00,1,false
+634,Twimm,Indian,cheap,soho,10:59,20:00,1,false
+635,Eamia,Japanese,expensive,upper west side,10:59,20:00,5,false
+636,Photolist,American,expensive,upper west side,10:59,20:00,3,true
+637,Digitube,Indian,medium,upper east side,10:59,20:00,3,false
+638,Dabfeed,American,cheap,upper west side,10:59,20:00,5,false
+639,Yambee,Indian,cheap,down town,10:59,20:00,4,true
+640,Flipopia,Chinese,expensive,upper west side,10:59,20:00,4,false
+641,Meembee,Chinese,medium,soho,10:59,20:00,1,true
+642,Ntags,Chinese,medium,upper west side,10:59,20:00,3,false
+643,Dabshots,Japanese,medium,upper east side,10:59,20:00,2,false
+644,Skyba,Chinese,expensive,down town,10:59,20:00,5,true
+645,Wordify,American,cheap,midtown,10:59,20:00,1,true
+646,Roomm,American,cheap,upper west side,10:59,20:00,4,true
+647,Lazzy,American,medium,down town,10:59,20:00,4,false
+648,Shuffledrive,Indian,medium,upper east side,10:59,20:00,1,false
+649,Oozz,Chinese,medium,down town,10:59,20:00,3,true
+650,Skipfire,Chinese,medium,down town,10:59,20:00,5,true
+651,BlogXS,American,cheap,midtown,10:59,20:00,1,true
+652,Kimia,Indian,medium,down town,10:59,20:00,2,true
+653,Shufflebeat,American,medium,upper west side,10:59,20:00,3,false
+654,Twinder,Japanese,medium,down town,10:59,20:00,3,false
+655,Talane,Indian,cheap,down town,10:59,20:00,5,true
+656,Zava,American,cheap,upper east side,10:59,20:00,2,true
+657,Twitterworks,Japanese,expensive,midtown,10:59,20:00,1,true
+658,Wikizz,Japanese,cheap,upper east side,10:59,20:00,5,true
+659,Topicstorm,Indian,expensive,upper west side,10:59,20:00,1,true
+660,Lazzy,American,medium,soho,10:59,20:00,5,true
+661,Blogtags,Indian,expensive,soho,10:59,20:00,5,false
+662,Dabjam,Indian,medium,soho,10:59,20:00,5,false
+663,Meeveo,Indian,cheap,upper east side,10:59,20:00,1,true
+664,Eayo,Indian,cheap,upper east side,10:59,20:00,1,false
+665,Pixonyx,Chinese,expensive,soho,10:59,20:00,4,false
+666,Skiba,American,expensive,upper east side,10:59,20:00,5,true
+667,Gabtype,American,cheap,upper east side,10:59,20:00,3,true
+668,Topicblab,American,cheap,midtown,10:59,20:00,3,false
+669,Vidoo,Japanese,expensive,soho,10:59,20:00,4,true
+670,Jabbersphere,Chinese,cheap,down town,10:59,20:00,1,false
+671,Browsetype,Indian,cheap,midtown,10:59,20:00,1,false
+672,Mynte,Indian,cheap,down town,10:59,20:00,4,false
+673,Trilith,American,expensive,midtown,10:59,20:00,4,false
+674,Kamba,Indian,cheap,soho,10:59,20:00,5,true
+675,Roodel,Japanese,medium,upper east side,10:59,20:00,4,true
+676,Voonder,Chinese,medium,soho,10:59,20:00,4,false
+677,Twitternation,Japanese,expensive,soho,10:59,20:00,5,true
+678,Photospace,Chinese,medium,midtown,10:59,20:00,2,false
+679,Riffpedia,Indian,medium,upper west side,10:59,20:00,1,false
+680,Wordify,Japanese,medium,upper east side,10:59,20:00,1,true
+681,Zoonder,American,medium,midtown,10:59,20:00,2,false
+682,Oyope,Indian,expensive,midtown,10:59,20:00,3,true
+683,Brainverse,Chinese,medium,soho,10:59,20:00,1,false
+684,Rhyloo,Indian,cheap,soho,10:59,20:00,2,false
+685,Yodel,Indian,cheap,upper west side,10:59,20:00,1,true
+686,Meeveo,Japanese,cheap,down town,10:59,20:00,1,false
+687,Voonyx,Indian,expensive,upper east side,10:59,20:00,3,false
+688,Skibox,American,expensive,soho,10:59,20:00,2,true
+689,Yombu,Japanese,medium,upper west side,10:59,20:00,4,true
+690,Kaymbo,American,cheap,midtown,10:59,20:00,3,false
+691,Trilith,Indian,medium,down town,10:59,20:00,4,true
+692,Twitterwire,Chinese,medium,down town,10:59,20:00,1,false
+693,Eamia,Chinese,medium,upper west side,10:59,20:00,5,true
+694,Zava,Japanese,medium,upper east side,10:59,20:00,3,true
+695,Bubbletube,Japanese,cheap,soho,10:59,20:00,4,true
+696,Pixope,Indian,medium,midtown,10:59,20:00,1,true
+697,Rhynoodle,American,cheap,upper east side,10:59,20:00,5,true
+698,Buzzbean,Japanese,cheap,down town,10:59,20:00,4,false
+699,Gabtype,Chinese,expensive,down town,10:59,20:00,2,true
+700,Flashset,American,medium,midtown,10:59,20:00,4,true
+701,Flashdog,Chinese,expensive,midtown,10:59,20:00,5,true
+702,Jaloo,Chinese,expensive,down town,10:59,20:00,5,false
+703,Wordify,Japanese,medium,upper west side,10:59,20:00,3,true
+704,Realblab,American,expensive,upper east side,10:59,20:00,1,true
+705,Quaxo,Japanese,expensive,soho,10:59,20:00,3,false
+706,Roomm,Chinese,cheap,upper west side,10:59,20:00,3,false
+707,Divape,American,cheap,soho,10:59,20:00,5,true
+708,Buzzdog,Indian,cheap,down town,10:59,20:00,3,false
+709,Photolist,Chinese,cheap,upper east side,10:59,20:00,3,false
+710,Muxo,American,expensive,upper east side,10:59,20:00,2,true
+711,Babblestorm,Chinese,medium,upper east side,10:59,20:00,4,false
+712,Zooxo,Chinese,medium,down town,10:59,20:00,3,true
+713,Pixonyx,American,cheap,soho,10:59,20:00,5,false
+714,Edgeclub,Japanese,cheap,down town,10:59,20:00,1,false
+715,Aivee,Chinese,cheap,upper east side,10:59,20:00,2,true
+716,Twitterwire,Chinese,cheap,upper west side,10:59,20:00,4,true
+717,Thoughtstorm,Chinese,expensive,upper east side,10:59,20:00,3,true
+718,Fivebridge,Indian,cheap,soho,10:59,20:00,5,true
+719,Dabvine,American,cheap,upper east side,10:59,20:00,1,true
+720,Blogtag,Indian,expensive,upper east side,10:59,20:00,4,false
+721,Quinu,American,expensive,soho,10:59,20:00,3,false
+722,Lazz,Indian,cheap,upper west side,10:59,20:00,2,true
+723,Dynazzy,American,cheap,soho,10:59,20:00,4,false
+724,Devify,Chinese,expensive,upper east side,10:59,20:00,5,false
+725,Cogidoo,Indian,expensive,upper east side,10:59,20:00,1,false
+726,Demivee,Japanese,cheap,down town,10:59,20:00,1,true
+727,Trilia,American,medium,down town,10:59,20:00,3,true
+728,JumpXS,American,expensive,midtown,10:59,20:00,4,false
+729,Jatri,Chinese,expensive,upper west side,10:59,20:00,2,false
+730,Mybuzz,Japanese,medium,midtown,10:59,20:00,4,true
+731,Lazz,Indian,expensive,midtown,10:59,20:00,2,true
+732,Gevee,American,cheap,down town,10:59,20:00,3,false
+733,Innotype,Chinese,medium,soho,10:59,20:00,2,false
+734,Yabox,American,medium,upper west side,10:59,20:00,3,true
+735,Shuffledrive,Chinese,cheap,soho,10:59,20:00,5,false
+736,Blognation,Indian,medium,upper east side,10:59,20:00,1,false
+737,Flashdog,Indian,medium,soho,10:59,20:00,3,true
+738,Divavu,American,cheap,upper west side,10:59,20:00,4,true
+739,Photospace,Japanese,expensive,soho,10:59,20:00,1,false
+740,Flashspan,Chinese,medium,midtown,10:59,20:00,4,true
+741,Oyondu,Indian,cheap,soho,10:59,20:00,4,true
+742,Brightbean,American,medium,upper west side,10:59,20:00,4,false
+743,Gigaclub,Indian,expensive,upper west side,10:59,20:00,5,false
+744,Teklist,Indian,medium,soho,10:59,20:00,3,true
+745,Fanoodle,Chinese,medium,down town,10:59,20:00,5,true
+746,Quinu,Japanese,expensive,midtown,11:00,20:00,3,false
+747,Eazzy,Indian,expensive,upper east side,10:59,20:00,1,true
+748,Agivu,Chinese,cheap,upper east side,10:59,20:00,4,false
+749,Feedfish,Indian,expensive,soho,10:59,20:00,3,true
+750,Zoombeat,Indian,cheap,upper west side,10:59,20:00,3,true
+751,Mydo,Chinese,cheap,upper east side,10:59,20:00,4,false
+752,Mita,American,medium,upper east side,10:59,20:00,1,false
+753,Devify,Chinese,medium,down town,10:59,20:00,1,false
+754,Yozio,American,medium,upper west side,10:59,20:00,3,true
+755,Avamm,Chinese,medium,soho,10:59,20:00,1,false
+756,Kare,American,medium,soho,10:59,20:00,4,false
+757,Skyvu,American,medium,soho,10:59,20:00,1,false
+758,Eadel,Chinese,cheap,upper east side,10:59,20:00,1,false
+759,Topiczoom,Indian,medium,upper west side,10:59,20:00,1,false
+760,Skidoo,Japanese,medium,upper west side,10:59,20:00,5,false
+761,Yodo,Indian,expensive,down town,10:59,20:00,4,false
+762,Ooba,Japanese,cheap,upper west side,10:59,20:00,2,true
+763,Roodel,American,medium,upper east side,10:59,20:00,5,false
+764,Feedbug,Indian,medium,upper east side,10:59,20:00,4,true
+765,Tagtune,American,cheap,upper east side,10:59,20:00,3,true
+766,Talane,Indian,cheap,midtown,10:59,20:00,2,false
+767,Meeveo,Chinese,medium,midtown,10:59,20:00,4,false
+768,Dazzlesphere,Indian,medium,down town,10:59,20:00,2,true
+769,Dynazzy,Indian,expensive,midtown,10:59,20:00,5,false
+770,Tagcat,Indian,medium,midtown,10:59,20:00,1,false
+771,Camimbo,Chinese,cheap,upper west side,10:59,20:00,1,false
+772,Fliptune,Indian,cheap,upper east side,10:59,20:00,3,true
+773,Yakidoo,Japanese,medium,midtown,10:59,20:00,5,false
+774,Rhyloo,Indian,expensive,down town,10:59,20:00,3,false
+775,Livetube,American,medium,upper west side,10:59,20:00,1,true
+776,Eabox,Indian,expensive,upper east side,10:59,20:00,4,true
+777,Skyvu,Japanese,cheap,upper east side,10:59,20:00,3,true
+778,Trilia,Japanese,medium,upper west side,10:59,20:00,2,false
+779,Izio,American,expensive,upper west side,10:59,20:00,2,false
+780,Skiba,American,medium,down town,10:59,20:00,3,true
+781,Bluezoom,Chinese,medium,soho,10:59,20:00,3,true
+782,Zoovu,American,medium,upper east side,10:59,20:00,3,false
+783,Thoughtbridge,Indian,cheap,down town,10:59,20:00,1,true
+784,Gabspot,Chinese,expensive,upper west side,10:59,20:00,2,true
+785,Quatz,American,cheap,upper west side,10:59,20:00,4,true
+786,Roodel,Indian,expensive,midtown,10:59,20:00,2,false
+787,Devpulse,American,expensive,down town,10:59,20:00,5,true
+788,Gigazoom,Chinese,cheap,down town,10:59,20:00,4,true
+789,Yacero,Chinese,cheap,down town,10:59,20:00,3,true
+790,Yakitri,Japanese,cheap,soho,10:59,20:00,5,true
+791,Youspan,Chinese,expensive,upper east side,10:59,20:00,5,false
+792,Jabbersphere,Chinese,cheap,upper east side,10:59,20:00,3,false
+793,Katz,Chinese,cheap,down town,10:59,20:00,2,false
+794,Lajo,Chinese,medium,down town,10:59,20:00,2,false
+795,Tagpad,Japanese,cheap,midtown,10:59,20:00,5,false
+796,Photofeed,Japanese,medium,upper west side,10:59,20:00,5,false
+797,Meevee,Chinese,expensive,down town,10:59,20:00,3,false
+798,Blogtags,Chinese,cheap,soho,10:59,20:00,5,true
+799,Blogspan,Japanese,cheap,midtown,10:59,20:00,5,false
+800,Thoughtmix,Japanese,cheap,down town,10:59,20:00,3,true
+801,Rooxo,American,cheap,midtown,10:59,20:00,3,true
+802,Voolia,Chinese,medium,down town,10:59,20:00,1,true
+803,Realmix,Japanese,medium,upper west side,10:59,20:00,1,false
+804,Mudo,Chinese,expensive,down town,10:59,20:00,1,false
+805,Wikizz,American,expensive,down town,10:59,20:00,3,false
+806,Omba,Japanese,expensive,upper east side,10:59,20:00,4,true
+807,Blogpad,Indian,medium,soho,10:59,20:00,4,true
+808,Quatz,American,medium,upper west side,10:59,20:00,1,true
+809,Zazio,Indian,cheap,upper west side,10:59,20:00,4,false
+810,Skippad,Chinese,medium,upper east side,10:59,20:00,4,false
+811,Jabbersphere,Indian,cheap,upper east side,10:59,20:00,3,true
+812,Innojam,American,cheap,upper west side,10:59,20:00,5,false
+813,Jabbersphere,Japanese,medium,down town,10:59,20:00,1,false
+814,Abatz,Indian,medium,soho,10:59,20:00,2,true
+815,Demivee,American,medium,midtown,10:59,20:00,3,false
+816,Yozio,Chinese,medium,down town,10:59,20:00,5,true
+817,Divape,American,expensive,upper west side,10:59,20:00,1,false
+818,LiveZ,American,expensive,upper east side,10:59,20:00,2,true
+819,Twitterworks,Japanese,cheap,upper west side,10:59,20:00,4,true
+820,Livepath,Chinese,medium,upper west side,10:59,20:00,3,false
+821,Wordware,Chinese,expensive,soho,10:59,20:00,5,true
+822,Browsebug,Indian,expensive,down town,10:59,20:00,5,true
+823,Blogtag,American,cheap,down town,10:59,20:00,3,true
+824,Gigazoom,Japanese,medium,upper east side,10:59,20:00,5,true
+825,Topdrive,Chinese,cheap,down town,10:59,20:00,2,true
+826,Kayveo,Japanese,cheap,upper west side,10:59,20:00,3,true
+827,Youopia,Japanese,expensive,midtown,10:59,20:00,5,false
+828,Centimia,Indian,cheap,upper west side,10:59,20:00,1,true
+829,Pixoboo,Indian,expensive,upper east side,10:59,20:00,5,true
+830,Feedfish,American,expensive,down town,10:59,20:00,3,true
+831,Devcast,American,medium,midtown,10:59,20:00,5,false
+832,Voonder,Chinese,cheap,upper west side,10:59,20:00,2,false
+833,Dabtype,Japanese,expensive,upper east side,10:59,20:00,1,false
+834,Snaptags,American,medium,soho,10:59,20:00,5,false
+835,Devbug,Indian,cheap,soho,10:59,20:00,5,false
+836,Plajo,American,expensive,midtown,10:59,20:00,5,true
+837,Realblab,American,expensive,midtown,10:59,20:00,4,false
+838,Gigazoom,Indian,cheap,upper west side,10:59,20:00,1,false
+839,Demivee,Japanese,expensive,midtown,10:59,20:00,1,false
+840,Riffwire,American,expensive,midtown,10:59,20:00,4,false
+841,Innojam,Japanese,cheap,upper east side,10:59,20:00,4,true
+842,Skinix,American,medium,upper west side,10:59,20:00,1,true
+843,Oyoloo,Chinese,cheap,soho,10:59,20:00,4,true
+844,Skippad,Indian,medium,down town,10:59,20:00,5,false
+845,Skippad,American,expensive,upper east side,10:59,20:00,1,true
+846,Kaymbo,American,expensive,midtown,10:59,20:00,3,true
+847,DabZ,American,medium,upper east side,10:59,20:00,2,false
+848,Mynte,Chinese,medium,upper west side,10:59,20:00,5,false
+849,Muxo,American,expensive,upper east side,11:00,20:00,4,true
+850,Dabfeed,Japanese,cheap,upper east side,10:59,20:00,1,true
+851,Devpoint,American,cheap,midtown,10:59,20:00,4,true
+852,Bubbletube,American,expensive,soho,10:59,20:00,5,false
+853,Kazu,American,cheap,soho,10:59,20:00,3,true
+854,Realfire,Japanese,cheap,upper east side,10:59,20:00,1,true
+855,Kanoodle,Indian,cheap,upper east side,10:59,20:00,4,false
+856,Demizz,Japanese,expensive,upper west side,10:59,20:00,5,false
+857,Gigashots,Indian,cheap,upper east side,10:59,20:00,1,false
+858,Jetpulse,American,expensive,upper east side,10:59,20:00,2,false
+859,Lazz,American,medium,soho,10:59,20:00,2,true
+860,Ntag,Indian,cheap,soho,10:59,20:00,5,true
+861,Gabcube,Indian,medium,down town,10:59,20:00,4,true
+862,Quamba,Japanese,medium,down town,10:59,20:00,3,false
+863,Skiba,Indian,expensive,down town,10:59,20:00,3,true
+864,Photobug,Japanese,expensive,upper west side,10:59,20:00,4,false
+865,Photojam,Japanese,medium,upper east side,10:59,20:00,2,true
+866,Yozio,Japanese,expensive,upper east side,10:59,20:00,5,true
+867,Cogibox,Japanese,expensive,upper west side,10:59,20:00,4,false
+868,Plambee,Japanese,expensive,upper east side,10:59,20:00,5,false
+869,Zoonder,American,cheap,upper east side,10:59,20:00,3,false
+870,Devcast,Indian,medium,midtown,10:59,20:00,4,true
+871,Fivespan,Indian,medium,upper east side,10:59,20:00,1,false
+872,Tagopia,American,medium,midtown,10:59,20:00,4,true
+873,Camimbo,Chinese,expensive,upper west side,10:59,20:00,2,true
+874,Eare,Japanese,expensive,down town,10:59,20:00,2,false
+875,Avamm,Japanese,medium,upper east side,10:59,20:00,3,true
+876,Wikizz,Indian,medium,soho,10:59,20:00,4,false
+877,Kwimbee,Chinese,cheap,midtown,11:00,20:00,1,true
+878,Zoonoodle,Japanese,cheap,soho,10:59,20:00,2,true
+879,Vitz,Japanese,expensive,soho,10:59,20:00,3,true
+880,Vipe,Japanese,medium,soho,10:59,20:00,1,false
+881,Topicware,Indian,medium,down town,10:59,20:00,1,false
+882,Chatterbridge,Japanese,expensive,soho,10:59,20:00,1,true
+883,Lajo,American,medium,midtown,10:59,20:00,4,true
+884,Realmix,Indian,medium,soho,10:59,20:00,4,true
+885,Fivespan,Indian,cheap,upper west side,10:59,20:00,4,true
+886,Fliptune,American,expensive,midtown,10:59,20:00,5,true
+887,Chatterbridge,Japanese,expensive,upper west side,10:59,20:00,2,true
+888,Agivu,Japanese,cheap,down town,10:59,20:00,2,false
+889,Thoughtmix,American,cheap,down town,10:59,20:00,2,false
+890,Photobug,Japanese,medium,upper west side,10:59,20:00,2,false
+891,Skajo,Japanese,medium,soho,10:59,20:00,3,false
+892,Browsetype,Indian,expensive,soho,10:59,20:00,2,true
+893,Skyvu,Japanese,expensive,soho,10:59,20:00,3,false
+894,Skipfire,Japanese,expensive,midtown,10:59,20:00,3,false
+895,Photobean,Japanese,medium,upper west side,10:59,20:00,1,false
+896,Devbug,Indian,medium,midtown,10:59,20:00,4,false
+897,Wikido,Indian,medium,upper west side,10:59,20:00,5,true
+898,Thoughtbeat,Chinese,medium,upper east side,10:59,20:00,1,false
+899,Thoughtstorm,Japanese,cheap,soho,10:59,20:00,1,true
+900,Edgeblab,Indian,medium,soho,10:59,20:00,1,false
+901,InnoZ,Indian,expensive,midtown,10:59,20:00,4,false
+902,Gigazoom,Indian,expensive,upper west side,10:59,20:00,5,true
+903,Tazz,Chinese,cheap,down town,10:59,20:00,3,false
+904,Miboo,Indian,expensive,upper west side,10:59,20:00,1,true
+905,Jabberbean,Japanese,expensive,down town,10:59,20:00,2,false
+906,Flipbug,Indian,medium,soho,10:59,20:00,4,false
+907,Edgeclub,American,cheap,upper west side,10:59,20:00,1,true
+908,Wordware,Chinese,cheap,midtown,10:59,20:00,3,false
+909,Thoughtmix,Japanese,cheap,midtown,10:59,20:00,2,false
+910,Skilith,Chinese,cheap,down town,10:59,20:00,5,true
+911,Tanoodle,Japanese,medium,midtown,10:59,20:00,4,true
+912,Feedfish,Chinese,cheap,upper west side,10:59,20:00,2,false
+913,Thoughtbeat,Chinese,cheap,upper west side,10:59,20:00,5,false
+914,Twiyo,Chinese,medium,upper east side,10:59,20:00,1,true
+915,Blogspan,American,cheap,upper east side,10:59,20:00,3,true
+916,Wikivu,Japanese,medium,upper west side,10:59,20:00,5,true
+917,Realbridge,Chinese,cheap,upper west side,10:59,20:00,3,false
+918,Pixonyx,Chinese,medium,upper west side,10:59,20:00,4,false
+919,Babbleblab,American,expensive,upper east side,10:59,20:00,5,false
+920,Zoombeat,Indian,cheap,midtown,10:59,20:00,2,true
+921,Voomm,American,expensive,soho,10:59,20:00,5,true
+922,Zoombeat,Chinese,expensive,soho,10:59,20:00,1,false
+923,Shufflebeat,Chinese,medium,upper east side,10:59,20:00,2,true
+924,Chatterpoint,American,medium,upper east side,10:59,20:00,3,false
+925,Meezzy,Japanese,medium,down town,10:59,20:00,4,false
+926,Linklinks,Indian,expensive,upper east side,10:59,20:00,3,false
+927,Eabox,Japanese,cheap,upper west side,10:59,20:00,3,false
+928,Quire,Japanese,expensive,upper east side,10:59,20:00,3,false
+929,Skinix,Chinese,medium,soho,10:59,20:00,5,false
+930,Jayo,American,cheap,midtown,10:59,20:00,5,false
+931,Thoughtstorm,American,cheap,midtown,10:59,20:00,2,true
+932,Avamba,Indian,expensive,down town,10:59,20:00,4,false
+933,Voolith,Indian,medium,midtown,10:59,20:00,2,true
+934,Tavu,American,cheap,upper west side,10:59,20:00,1,true
+935,Edgeclub,Chinese,expensive,down town,10:59,20:00,5,false
+936,Oyope,Japanese,medium,midtown,10:59,20:00,5,true
+937,Linkbuzz,Japanese,expensive,midtown,10:59,20:00,2,false
+938,Meemm,Chinese,medium,down town,10:59,20:00,2,true
+939,Youspan,Japanese,expensive,down town,10:59,20:00,5,true
+940,Voolith,Indian,expensive,down town,10:59,20:00,3,false
+941,Buzzshare,Japanese,cheap,upper west side,10:59,20:00,1,false
+942,Dynabox,American,expensive,upper west side,10:59,20:00,3,true
+943,Meetz,Japanese,expensive,midtown,10:59,20:00,3,false
+944,Lazzy,American,cheap,midtown,10:59,20:00,4,false
+945,Eimbee,American,medium,midtown,10:59,20:00,5,false
+946,Flipbug,Chinese,cheap,upper east side,10:59,20:00,4,true
+947,Cogilith,Chinese,expensive,midtown,10:59,20:00,2,false
+948,Youspan,Chinese,expensive,soho,10:59,20:00,5,true
+949,Avavee,Indian,expensive,down town,10:59,20:00,4,false
+950,Livetube,American,expensive,upper west side,10:59,20:00,2,false
+951,Zoombeat,American,expensive,down town,10:59,20:00,1,true
+952,Dabjam,Chinese,cheap,upper west side,10:59,20:00,4,true
+953,Roomm,American,expensive,down town,10:59,20:00,5,true
+954,Yakitri,Chinese,medium,midtown,10:59,20:00,2,true
+955,Skippad,Chinese,medium,soho,10:59,20:00,5,true
+956,Devpulse,Chinese,expensive,down town,10:59,20:00,1,true
+957,Feedfish,Japanese,medium,upper east side,10:59,20:00,5,false
+958,Yakitri,Japanese,cheap,upper west side,10:59,20:00,4,false
+959,Edgepulse,American,cheap,upper east side,10:59,20:00,4,false
+960,Mudo,Japanese,cheap,upper west side,10:59,20:00,1,false
+961,Mydeo,Japanese,medium,upper west side,10:59,20:00,4,false
+962,Oloo,American,cheap,upper west side,10:59,20:00,3,true
+963,Flipstorm,Japanese,expensive,upper east side,10:59,20:00,4,false
+964,Devshare,Chinese,expensive,midtown,10:59,20:00,5,true
+965,Jaxspan,Japanese,expensive,upper west side,10:59,20:00,2,true
+966,Quimba,American,cheap,upper east side,10:59,20:00,4,true
+967,Latz,Japanese,medium,soho,10:59,20:00,2,false
+968,Youbridge,Indian,expensive,midtown,10:59,20:00,5,true
+969,Vidoo,Japanese,expensive,midtown,10:59,20:00,2,false
+970,Pixonyx,Indian,medium,upper west side,10:59,20:00,3,false
+971,Ooba,Indian,cheap,soho,10:59,20:00,3,false
+972,Voonyx,American,medium,upper east side,10:59,20:00,2,false
+973,Kaymbo,American,medium,midtown,10:59,20:00,4,false
+974,Chatterbridge,American,cheap,soho,10:59,20:00,4,false
+975,Babblestorm,American,cheap,upper east side,10:59,20:00,1,true
+976,Wikibox,Japanese,expensive,midtown,10:59,20:00,1,false
+977,Quinu,Chinese,cheap,upper west side,10:59,20:00,4,false
+978,Twitterworks,American,cheap,upper west side,10:59,20:00,4,false
+979,Vitz,American,cheap,midtown,10:59,20:00,5,true
+980,JumpXS,Japanese,expensive,soho,10:59,20:00,4,true
+981,Skajo,American,medium,down town,10:59,20:00,4,false
+982,Trunyx,American,medium,upper west side,10:59,20:00,2,false
+983,Topicshots,American,expensive,down town,10:59,20:00,1,false
+984,Thoughtbeat,Chinese,medium,soho,10:59,20:00,1,true
+985,Cogilith,American,cheap,down town,10:59,20:00,4,true
+986,InnoZ,American,cheap,down town,11:00,20:00,4,false
+987,Janyx,Japanese,medium,down town,10:59,20:00,4,true
+988,Photobug,Japanese,medium,upper west side,10:59,20:00,5,true
+989,Centidel,American,cheap,soho,10:59,20:00,5,true
+990,Tagchat,Japanese,medium,midtown,10:59,20:00,5,false
+991,Brightbean,American,expensive,upper west side,10:59,20:00,3,true
+992,Dazzlesphere,Japanese,cheap,midtown,10:59,20:00,2,true
+993,Voolia,American,cheap,midtown,10:59,20:00,5,false
+994,Bubblebox,Japanese,medium,upper west side,10:59,20:00,3,false
+995,Tagcat,Japanese,expensive,soho,10:59,20:00,4,true
+996,Trudoo,Japanese,cheap,upper west side,10:59,20:00,3,false
+997,Fatz,Japanese,cheap,upper east side,10:59,20:00,5,false
+998,Browsezoom,Chinese,cheap,midtown,10:59,20:00,3,false
+999,Cogilith,Indian,medium,upper west side,10:59,20:00,2,true
+1000,Meevee,Japanese,expensive,down town,10:59,20:00,5,false
